@@ -1,0 +1,13 @@
+[I 15:55:27.559 NotebookApp] Serving notebooks from local directory: /Users/fengxu/AI/python/webApp
+[I 15:55:27.559 NotebookApp] 0 active kernels
+[I 15:55:27.559 NotebookApp] The Jupyter Notebook is running at:
+[I 15:55:27.560 NotebookApp] http://localhost:8888/?token=01e57aba5036fe9fbd62036129d377909a081917aeb70dda
+[I 15:55:27.560 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:55:27.602 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=01e57aba5036fe9fbd62036129d377909a081917aeb70dda
+[W 15:55:27.661 NotebookApp] 404 GET /api/kernels/be5858e6-205e-449d-bf20-cba8b278a2c3/channels?session_id=64FB4010E07D44A489A1880BC2EB7DC4 (::1): Kernel does not exist: be5858e6-205e-449d-bf20-cba8b278a2c3
+[W 15:55:27.942 NotebookApp] 404 GET /api/kernels/be5858e6-205e-449d-bf20-cba8b278a2c3/channels?session_id=64FB4010E07D44A489A1880BC2EB7DC4 (::1) 324.48ms referer=None
+[I 15:55:29.223 NotebookApp] Accepting one-time-token-authenticated connection from ::1
