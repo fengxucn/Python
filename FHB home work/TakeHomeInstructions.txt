@@ -1,0 +1,3 @@
+Using your language of choice, write some assessment and cleaning routines. 
+Provide a short write-up of what you observe about the data, how to review for reasonableness, and how to correct any errors or inconsistencies. 
+Submit all your code, notes, and altered data.
